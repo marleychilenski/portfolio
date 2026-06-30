@@ -1,6 +1,7 @@
 import "./App.css";
 import emailjs from "@emailjs/browser";
 import React, { useState } from "react";
+import { Analytics } from "@vercel/analytics/next";
 
 function App() {
   const [formData, setFormData] = useState({
