@@ -1,7 +1,7 @@
 import "./App.css";
 import emailjs from "@emailjs/browser";
 import React, { useState } from "react";
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   const [formData, setFormData] = useState({
@@ -120,7 +120,7 @@ function App() {
   <div className="card-container">
 
     <a
-      href="https://marleychilenski.github.io/Business-Card/"
+      href="https://marleychilenski.github.io/business_card/"
       className="card-link"
       target="_blank"
       rel="noopener noreferrer"
