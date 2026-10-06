@@ -165,6 +165,7 @@ function App() {
       </div>
     </a>
 
+
   </div>
 </section>
         {/* SKILLS */}
@@ -246,7 +247,7 @@ function App() {
 
         {/* FOOTER */}
         <footer>
-          <p>&copy; 2025 Marley Chilenski</p>
+          <p>&copy; 2025 Marley Chilenski | Version 1.0</p>
         </footer>
 
       </div>
