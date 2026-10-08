@@ -70,10 +70,7 @@ function App() {
   />
 
   <p className="aboutme-p">
-    Hey! I’m a third-year Information Technology student at the University of Cincinnati
-    with a passion for creativity and problem-solving. I enjoy bringing ideas to life
-    through real, hands-on projects and continuously building my technical skills along
-    the way. Thank you so much for checking out my site. :)
+    Hey! I’m Marley, a third-year Information Technology student at the University of Cincinnati. I’m always working on something new, whether it’s a class project, a personal project, or just something I wanted to try. I’m still learning and building my skills along the way, and this site is where I get to share some of it! Thanks for stopping by. :)
   </p>
 
   <a
